@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPSIP3", "MPSIP3.vcxproj", "{A66ED42B-2E88-49E7-921B-0E96A55E4C51}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MPSIP3Setup", "..\MPSIP3Setup\MPSIP3Setup.vdproj", "{7F058977-0A4B-4600-A810-084C54C48165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Debug|x64.ActiveCfg = Debug|x64
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Debug|x64.Build.0 = Debug|x64
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Debug|x86.ActiveCfg = Debug|Win32
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Debug|x86.Build.0 = Debug|Win32
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Release|x64.ActiveCfg = Release|x64
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Release|x64.Build.0 = Release|x64
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Release|x86.ActiveCfg = Release|Win32
+		{A66ED42B-2E88-49E7-921B-0E96A55E4C51}.Release|x86.Build.0 = Release|Win32
+		{7F058977-0A4B-4600-A810-084C54C48165}.Debug|x64.ActiveCfg = Debug
+		{7F058977-0A4B-4600-A810-084C54C48165}.Debug|x86.ActiveCfg = Debug
+		{7F058977-0A4B-4600-A810-084C54C48165}.Release|x64.ActiveCfg = Release
+		{7F058977-0A4B-4600-A810-084C54C48165}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5658FE66-FEAF-44EC-BFAF-3374FDC2A505}
+	EndGlobalSection
+EndGlobal

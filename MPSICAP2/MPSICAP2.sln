@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPSICAP2", "MPSICAP2.vcxproj", "{C5AC3347-0054-4D91-B122-140CF3C33E3D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MPSICAP2Setup", "..\MPSICAP2Setup\MPSICAP2Setup.vdproj", "{995900DC-22D3-40DC-919E-B3A1AACFB195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Debug|x64.ActiveCfg = Debug|x64
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Debug|x64.Build.0 = Debug|x64
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Debug|x86.Build.0 = Debug|Win32
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Release|x64.ActiveCfg = Release|x64
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Release|x64.Build.0 = Release|x64
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Release|x86.ActiveCfg = Release|Win32
+		{C5AC3347-0054-4D91-B122-140CF3C33E3D}.Release|x86.Build.0 = Release|Win32
+		{995900DC-22D3-40DC-919E-B3A1AACFB195}.Debug|x64.ActiveCfg = Debug
+		{995900DC-22D3-40DC-919E-B3A1AACFB195}.Debug|x86.ActiveCfg = Debug
+		{995900DC-22D3-40DC-919E-B3A1AACFB195}.Release|x64.ActiveCfg = Release
+		{995900DC-22D3-40DC-919E-B3A1AACFB195}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1CF992-AB01-4B0D-B21C-301EE534464F}
+	EndGlobalSection
+EndGlobal

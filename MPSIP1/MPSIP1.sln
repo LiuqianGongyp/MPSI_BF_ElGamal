@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MPSIP1", "MPSIP1.vcxproj", "{01A86BA5-4659-47EF-9595-8C7C3318D374}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MPSIP1Setup", "..\MPSIP1Setup\MPSIP1Setup.vdproj", "{70C13D72-F161-49BD-BBBD-D58600590492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Debug|x64.ActiveCfg = Debug|x64
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Debug|x64.Build.0 = Debug|x64
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Debug|x86.ActiveCfg = Debug|Win32
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Debug|x86.Build.0 = Debug|Win32
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Release|x64.ActiveCfg = Release|x64
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Release|x64.Build.0 = Release|x64
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Release|x86.ActiveCfg = Release|Win32
+		{01A86BA5-4659-47EF-9595-8C7C3318D374}.Release|x86.Build.0 = Release|Win32
+		{70C13D72-F161-49BD-BBBD-D58600590492}.Debug|x64.ActiveCfg = Debug
+		{70C13D72-F161-49BD-BBBD-D58600590492}.Debug|x86.ActiveCfg = Debug
+		{70C13D72-F161-49BD-BBBD-D58600590492}.Release|x64.ActiveCfg = Release
+		{70C13D72-F161-49BD-BBBD-D58600590492}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAE3CF86-C976-41C4-BB06-AEC7AE772441}
+	EndGlobalSection
+EndGlobal
